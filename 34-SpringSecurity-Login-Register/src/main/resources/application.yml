@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/mcv
+    username: root
+    password: Kunal@123
+    
+    
+  jpa:
+    show-sql: true
+    
+    
+    hibernate:
+      ddl-auto: update
